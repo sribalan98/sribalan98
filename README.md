@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML ,CSS , JAVASCRIPT .**
 
-- 👨‍💻 All of my projects are available [Soon !.](Soon !.)
+- 👨‍💻 All of my projects are available Soon !.
 
 - 📫 How to reach me **https://www.instagram.com/sribalan.g/**
 
