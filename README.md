@@ -58,12 +58,11 @@
 
 
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥My Stats :</h3>
 
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sribalan98&show_icons=true&locale=en&layout=compact" alt="sribalan98" /></p>
 </div>
-###
 
 
 
