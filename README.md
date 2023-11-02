@@ -58,9 +58,11 @@
 
 
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+<div align="center">
+  <h3 align="center">🔥🔥My Stats🔥🔥</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=sribalan98&theme=vue-dark&show_icons=true&hide_border=false" alt="sribalan98's GitHub Stats" />
+</div>
 
 
 
