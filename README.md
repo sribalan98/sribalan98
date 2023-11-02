@@ -60,7 +60,9 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=sribalan98">
+<div align="center">
+<a href="[https://github-readme-streak-stats.herokuapp.com/?user=sribalan98](https://github-readme-streak-stats.herokuapp.com/?user=sribalan98)">
+</div>
 ###
 
 
