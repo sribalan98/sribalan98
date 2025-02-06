@@ -7,7 +7,7 @@ Full Stack Developer & Reverse Engineer
 I’m a passionate Full Stack Developer and Reverse Engineer with over 3 years of hands-on experience. My journey began with JavaScript, and since then, I’ve grown to tackle complex challenges across the entire tech stack. From building sleek front-end interfaces to optimizing back-end systems, I’ve embraced every part of development. But my curiosity doesn’t stop there—I’ve delved deep into reverse engineering, constantly pushing myself to understand and manipulate systems at the core level. Now, I’m striving to master the art of kernel-level languages, taking my skills to the next level in software development.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [sribalan980@gmail.com](mailto:sribalan980@gmail.com)
+* ✉️  You can contact me at [sribalan2022@gmail.com](mailto:sribalan980@gmail.com)
 * 🧠  I'm learning kernel-level languages
 * 🤝  I'm open to collaborating on new projects and teamwork!
 * ⚡  I Am IronMan
