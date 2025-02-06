@@ -40,7 +40,6 @@ src="https://img.shields.io/github/followers/sribalan98?logo=github&style=for-th
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/sribalan"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31onxz3spztg4kvfcpt4tiaai3su">
@@ -48,4 +47,3 @@ src="https://img.shields.io/github/followers/sribalan98?logo=github&style=for-th
   </a>
 </div>
 
-###
