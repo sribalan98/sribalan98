@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer & Reverse Engineer
 ---------------------------------------
 
-I’m a passionate Full Stack Developer and Reverse Engineer with over 3 years of hands-on experience. My journey began with JavaScript, and since then, I’ve grown to tackle complex challenges across the entire tech stack. From building sleek front-end interfaces to optimizing back-end systems, I’ve embraced every part of development. But my curiosity doesn’t stop there—I’ve delved deep into reverse engineering, constantly pushing myself to understand and manipulate systems at the core level. Now, I’m striving to master the art of kernel-level languages, taking my skills to the next level in software development.
+I'm a Full Stack Developer and Reverse Engineer with over 3 years of experience building and optimizing web applications. My passion lies in solving complex problems across the entire technology stack. I started my development journey with JavaScript and have since expanded my expertise to encompass both front-end and back-end systems.
+Beyond traditional development, I'm fascinated by the inner workings of software and have dedicated time to reverse engineering, seeking a deeper understanding of system architecture and functionality. I am currently focused on learning kernel-level languages to further expand my capabilities in low-level software development.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sribalan2022@gmail.com](mailto:sribalan980@gmail.com)
