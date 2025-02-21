@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/sribalan98?logo=github&style=for-th
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/sribalan"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+<a href="https://www.ko-fi.com/sribalan" style="display: inline-block; margin-right: 0.25rem;"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 
 </ul>
 
