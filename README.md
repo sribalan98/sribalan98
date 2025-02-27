@@ -7,11 +7,11 @@ Full Stack Developer & Reverse Engineer
 I'm a Full Stack Developer and Reverse Engineer with over 3 years of experience building and optimizing web applications. My passion lies in solving complex problems across the entire technology stack. I started my development journey with JavaScript and have since expanded my expertise to encompass both front-end and back-end systems.
 Beyond traditional development, I'm fascinated by the inner workings of software and have dedicated time to reverse engineering, seeking a deeper understanding of system architecture and functionality. I am currently focused on learning kernel-level languages to further expand my capabilities in low-level software development.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [sribalan2022@gmail.com](mailto:sribalan980@gmail.com)
-* 🧠  I'm learning kernel-level languages
-* 🤝  I'm open to collaborating on new projects and teamwork!
-* ⚡  I Am IronMan
+* 🌍  I'm based in India
+* ✉️  You can contact me at [sribalan2022@gmail.com](mailto:sribalan980@gmail.com)
+* 🧠  I'm learning kernel-level languages
+* 🤝  I'm open to collaborating on new projects and teamwork!
+* ⚡  I Am IronMan
 
 <a href="https://www.github.com/sribalan98" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sribalan98?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -53,6 +53,3 @@ src="https://img.shields.io/github/followers/sribalan98?logo=github&style=for-th
   <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=24abb34c466346e90a683627a5139439d0999540'></script>
   <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1306796/t/9"></script>
 </div>
-
-
-
