@@ -49,5 +49,5 @@ src="https://img.shields.io/github/followers/sribalan98?logo=github&style=for-th
 </div>
 
 <div align="center">
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Sribalan&labelColor=%23d9e3f0&countColor=%23ff8a65&style=plastic)
+<a href="https://visitorbadge.io/status?path=Sribalan"><img src="https://api.visitorbadge.io/api/visitors?path=Sribalan&labelColor=%23d9e3f0&countColor=%23ff8a65&style=plastic" /></a>
 </div>
