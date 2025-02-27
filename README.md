@@ -49,7 +49,5 @@ src="https://img.shields.io/github/followers/sribalan98?logo=github&style=for-th
 </div>
 
 <div align="center">
-  <a href='https://www.free-counters.org/'>powered by Free-Counters</a> 
-  <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=24abb34c466346e90a683627a5139439d0999540'></script>
-  <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1306796/t/9"></script>
+ ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 </div>
