@@ -49,5 +49,5 @@ src="https://img.shields.io/github/followers/sribalan98?logo=github&style=for-th
 </div>
 
 <div align="center">
- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Sribalan&labelColor=%23d9e3f0&countColor=%23ff8a65&style=plastic)
 </div>
